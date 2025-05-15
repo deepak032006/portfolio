@@ -54,7 +54,7 @@ const ProjectsGrid = ({
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdKsZ8ZNxd0MNgesKWozYpEUxJnCYVqu0Tg&s",
       technologies: ["React+Vite", "Javascript","tailwind css", "Node.js", "Express", "MongoDB"],
       demoUrl: "https://example.com",
-      githubUrl: "https://github.com/example/project",
+      githubUrl: "https://github.com/deepak032006/E-commerce",
     },
     // {
     //   id: "4",
