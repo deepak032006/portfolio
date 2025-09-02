@@ -156,7 +156,7 @@ const Home = () => {
                   <Linkedin size={24} />
                 </motion.a>
                 <motion.a
-                  href="mailto:example@example.com"
+                  href="mailto:deepaksharma032006@gmail.com.com"
                   whileHover={{ scale: 1.2, rotate: 5 }}
                   className="text-foreground/80 hover:text-primary transition-colors"
                 >
@@ -266,7 +266,7 @@ const Home = () => {
               className="flex-1"
             >
               <img
-                src="https://i.imgur.com/2oZHujD.jpeg"
+                src="kal.jpeg"
                 alt="Working Developer"
                 className="rounded-lg shadow-lg w-full max-w-md mx-auto"
               />
@@ -287,13 +287,13 @@ const Home = () => {
                 experiences and robust backend solutions.
               </p>
               <p className="text-foreground/80 mb-6">
-                My journey in web development started 5 years ago, and I've
+                My journey in web development started 1 years ago, and I've
                 since worked on various projects ranging from e-commerce
                 platforms to social media applications. I'm constantly learning
                 and adapting to new technologies to stay at the forefront of web
                 development.
               </p>
-              <div className="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-2 gap-0">
                 <div>
                   <h4 className="font-bold mb-2">Frontend</h4>
                   <ul className="space-y-1 text-foreground/80">
@@ -305,6 +305,7 @@ const Home = () => {
                     <li>Html</li>
                     <li>css</li>
                     <li>Bootstarp/jQuery</li>
+                    <li>Responsive Design</li>
                   </ul>
                 </div>
                 <div>
@@ -315,6 +316,9 @@ const Home = () => {
                     <li>MongoDB</li>
                     <li>RESTful APIs</li>
                     <li>Socket.io</li>
+                    <li>Firebase</li>
+                    <li>Github</li>
+                    <li>Api Integration</li>
                   </ul>
                 </div>
               </div>
@@ -397,7 +401,7 @@ const Home = () => {
                   </div>
                   <div>
                     <h4 className="font-medium">Email</h4>
-                    <p className="text-foreground/80">example@example.com</p>
+                    <p className="text-foreground/80">deepaksharma032006@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -406,7 +410,7 @@ const Home = () => {
                   </div>
                   <div>
                     <h4 className="font-medium">GitHub</h4>
-                    <p className="text-foreground/80">github.com/username</p>
+                    <p className="text-foreground/80">github.com/deepak032006</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -416,7 +420,7 @@ const Home = () => {
                   <div>
                     <h4 className="font-medium">LinkedIn</h4>
                     <p className="text-foreground/80">
-                      linkedin.com/in/username
+                      linkedin.com/in/Deepak sharma
                     </p>
                   </div>
                 </div>
